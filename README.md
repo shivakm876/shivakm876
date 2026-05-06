@@ -1,18 +1,13 @@
                                                           Hi 👋, I'm Sivaganga km
-Hi 👋, I'm Sivaganga KM<br><br>
+                                                          Hi 👋, I'm Sivaganga KM<br><br>
 
 An Aspiring Software Engineer and Machine Learning enthusiast<br><br>
 
 💫 About Me:<br><br>
-
 🔭 I’m currently working on: Building scalable solutions and exploring innovative technologies in both software engineering and machine learning. I'm highly driven to embrace opportunities and foster innovation in these dynamic fields.<br><br>
-
 👯 I'm looking to collaborate on: Innovative machine learning projects that leverage strong software engineering principles to build intelligent data-driven systems. I'm also keen to contribute to web application development projects, leveraging my hands-on experience in front-end development.<br><br>
-
 💼 I'm actively seeking: Fresher and entry-level opportunities in Software Engineering, Machine Learning, and AI-driven application development where I can contribute, learn, and grow as a developer.<br><br>
-
 🌱 I’m currently learning: Continuously exploring innovative technologies and applying machine learning to solve meaningful problems.<br><br>
-
 💬 Ask me about: Python, HTML/CSS/JavaScript, C++, Machine Learning, and my experience in developing AI-powered systems.<br>
 
 
